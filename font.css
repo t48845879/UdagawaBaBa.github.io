@@ -1,0 +1,12 @@
+@font-face{
+    font-family:"TC_Blod";
+    src: url(../font/TaipeiSansTCBeta-Bold.ttf)format('truetype');
+}
+@font-face{
+    font-family:"TC_Light";
+    src: url(../font/TaipeiSansTCBeta-Light.ttf)format('truetype');
+}
+@font-face{
+    font-family:"TC_Regular";
+    src: url(../font/TaipeiSansTCBeta-Regular.ttf)format('truetype');
+}
