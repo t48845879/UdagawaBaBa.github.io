@@ -2,6 +2,8 @@ body,html,div,into{ padding:0; margin:0;}
 a {color:#FF3377}
 a:hover{text-decoration:underline;}
 .wrap{
+ width: 100%;
+ min-width: 800px;
 font-family: TC_Regular;
  margin: 0 auto;
 }
